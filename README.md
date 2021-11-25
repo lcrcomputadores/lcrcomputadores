@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**lcrcomputadores/lcrcomputadores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 Atualmente estou trabalhando em Supermercado como conferente
+- 🌱 Atualmente estou aprendendo Curso em informática
+- 👯 Estou procurando colaborar em linguaguem html
+- 🤔 Estou procurando ajuda com pascal
+- 💬 Pergunte-me sobre alguma coisa
+- 📫 Como entrar em contato comigo: lourival@lcrcomputadores.com.br
+
+
